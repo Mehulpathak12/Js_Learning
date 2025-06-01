@@ -1,0 +1,3 @@
+Lib used
+    express
+    nodemon
